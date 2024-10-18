@@ -11,6 +11,6 @@ header {
 }
 
 section{
-    display: flex;
+    display: table-column-group;
     background-color: blue;
 }
