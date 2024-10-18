@@ -2,3 +2,10 @@ body {
     background-color: black;
     color: green;
 }
+
+header {
+   font-size: 50px;
+   color: white;
+   border-bottom: solid 10px blue;
+   text-align: center;
+}
