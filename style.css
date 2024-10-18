@@ -12,5 +12,5 @@ header {
 
 section{
     display: table-column-group;
-    background-color: blue;
+    background-color: black;
 }
